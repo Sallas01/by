@@ -1,2 +1,2 @@
-# by
+# qr-code-component-main
  
